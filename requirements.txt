@@ -1,0 +1,5 @@
+# All the libraries I installed
+requests
+openai
+dotenv
+csv

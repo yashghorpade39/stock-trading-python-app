@@ -1,0 +1,3 @@
+# We dont want these files to be tracked/pushed to github
+pythonenv/
+.env
