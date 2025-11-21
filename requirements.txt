@@ -1,5 +1,8 @@
 # All the libraries I installed
+# "pip install -r requirements.txt" -> to install all the libraries
+
 requests
 openai
 dotenv
 csv
+schedule
